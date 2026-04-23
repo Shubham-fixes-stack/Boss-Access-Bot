@@ -1,7 +1,7 @@
 import pyttsx3
 import time
 
-password_right = "your_secret_password"
+password_right = "shubham11"
 total = 0
 
 voice_bot = pyttsx3.init()

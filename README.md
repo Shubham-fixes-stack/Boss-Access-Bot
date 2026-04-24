@@ -36,4 +36,4 @@ I built this as a starting point for my upcoming AI assistant, **Jarvis 2.0**. I
 - [ ] Module 2: Voice Recognition (Listening to commands).
 - [ ] Module 3: System Automation (Opening apps/files).
 
-**Created for FUN and Learning by [Shubhamfixes](https://github.com/Shubhamfixes-stack)**
+**Created for FUN and Learning by [Shubhamfixes](https://github.com/Shubham-fixes-stack)**
